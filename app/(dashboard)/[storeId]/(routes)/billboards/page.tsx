@@ -1,5 +1,5 @@
 const BillboardsPage = () => {
-  return <div>Billboards</div>;
+  return <div className="flex-col">Billboards</div>;
 };
 
 export default BillboardsPage;
